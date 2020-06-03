@@ -1,0 +1,381 @@
+            /*Extra small devices (portrait phones, less than 576px)*/
+            
+            @media (max-width: 575.98px) {
+                #header-part {
+                    text-align: center;
+                }
+                #header-part .header-part-content-area .header-part-content-title {
+                    font-size: 30px;
+                    text-align: center;
+                }
+                #header-part .header-part-content-area .header-part-content-description {
+                    font-size: 12px;
+                    text-align: center;
+                }
+                #header-part .header-part-content-area .header-part-content-description-title {
+                    font-size: 18px;
+                    text-align: center;
+                }
+                #header-part .header-part-content-area .header-part-content-sub-title {
+                    font-size: 25px !important;
+                    padding-top: 6px;
+                    padding-bottom: 4px;
+                    text-align: center;
+                }
+                .header-part-image-area {
+                    width: 365px;
+                    margin-top: -104px;
+                    margin-left: 11px;
+                }
+                .header-part-btn .custom-btn {
+                    font-size: 15px;
+                    position: relative;
+                    z-index: 100;
+                    padding: 8px 60px;
+                }
+                .header-part-image-area {
+                    margin-top: -100px !important;
+                    margin: 0 auto;
+                }
+                .header-part-image-area img {
+                    min-width: 60%;
+                }
+                #my-dream-part {
+                    padding-top: 0px;
+                    margin-bottom: 40px;
+                }
+                .left-card {
+                    margin-bottom: 20px;
+                }
+                #my-dream-part .my-dream-image-area img {
+                    width: 305px;
+                    margin-top: -200px !important;
+                    margin-left: 0;
+                    margin: 0 auto;
+                }
+                .my-dream-image-area {
+                    margin: 0 auto;
+                    text-align: center;
+                    display: none;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-title {
+                    font-size: 20px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-sub-title {
+                    font-size: 13px;
+                    padding-bottom: 2px;
+                    padding-top: 10px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-decription {
+                    font-size: 12px;
+                    width: 425px;
+                }
+                .my-dream-content-area {
+                    margin-left: 0px;
+                }
+                .my-dream-content-area-btn .my-dream-custom-btn {
+                    padding: 5px 15px;
+                    font-size: 15px;
+                }
+                #bottom-part {
+                    text-align: center;
+                }
+                #bottom-part .bootom-part-title .bootom-part-title-h2 {
+                    font-size: 28px;
+                    text-align: center;
+                }
+                #bottom-part .card-text .text-muted {
+                    font-size: 12px;
+                    text-align: center;
+                }
+                #bottom-part .card-title {
+                    font-size: 20px;
+                    text-align: center;
+                }
+                #bottom-part .left-card-p {
+                    font-size: 12px;
+                    text-align: justify;
+                }
+                #bottom-part {
+                    margin-bottom: 45px;
+                }
+            }
+            /*Small devices (landscape phones, 576px and up)*/
+            
+            @media (min-width: 576px) and (max-width: 767.98px) {
+                #header-part {
+                    text-align: center;
+                }
+                #header-part .header-part-content-area .header-part-content-title {
+                    font-size: 30px;
+                    text-align: center;
+                }
+                #header-part .header-part-content-area .header-part-content-description {
+                    font-size: 12px;
+                    text-align: center;
+                }
+                #header-part .header-part-content-area .header-part-content-description-title {
+                    font-size: 18px;
+                    text-align: center;
+                }
+                #header-part .header-part-content-area .header-part-content-sub-title {
+                    font-size: 25px !important;
+                    padding-top: 6px;
+                    padding-bottom: 4px;
+                    text-align: center;
+                }
+                .header-part-image-area {
+                    width: 365px;
+                    margin-top: -104px;
+                    margin-left: 11px;
+                }
+                .header-part-btn .custom-btn {
+                    font-size: 15px;
+                    position: relative;
+                    z-index: 100;
+                    padding: 8px 60px;
+                }
+                .header-part-image-area {
+                    width: 440px;
+                    margin-top: -100px !important;
+                    margin: 0 auto;
+                }
+                #my-dream-part {
+                    padding-top: 0px;
+                    margin-bottom: 40px;
+                }
+                .left-card {
+                    margin-bottom: 20px;
+                }
+                #my-dream-part .my-dream-image-area img {
+                    width: 305px;
+                    margin-top: -200px !important;
+                    margin-left: 0;
+                    margin: 0 auto;
+                }
+                .my-dream-image-area {
+                    margin: 0 auto;
+                    text-align: center;
+                    display: none;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-title {
+                    font-size: 20px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-sub-title {
+                    font-size: 13px;
+                    padding-bottom: 2px;
+                    padding-top: 10px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-decription {
+                    font-size: 12px;
+                    width: 425px;
+                }
+                .my-dream-content-area {
+                    margin-left: 0px;
+                }
+                .my-dream-content-area-btn .my-dream-custom-btn {
+                    padding: 5px 15px;
+                    font-size: 15px;
+                }
+                #bottom-part {
+                    text-align: center;
+                }
+                #bottom-part .bootom-part-title .bootom-part-title-h2 {
+                    font-size: 28px;
+                    text-align: center;
+                }
+                #bottom-part .card-text .text-muted {
+                    font-size: 12px;
+                    text-align: center;
+                }
+                #bottom-part .card-title {
+                    font-size: 20px;
+                    text-align: center;
+                }
+                #bottom-part .left-card-p {
+                    font-size: 12px;
+                    text-align: justify;
+                }
+                #bottom-part {
+                    margin-bottom: 45px;
+                }
+            }
+            /*Medium devices (tablets, 768px and up)*/
+            
+            @media (min-width: 768px) and (max-width: 991.98px) {
+                #header-part .header-part-content-area .header-part-content-title {
+                    font-size: 30px;
+                }
+                #header-part .header-part-content-area .header-part-content-description {
+                    font-size: 12px;
+                }
+                #header-part .header-part-content-area .header-part-content-description-title {
+                    font-size: 18px;
+                }
+                #header-part .header-part-content-area .header-part-content-sub-title {
+                    font-size: 25px !important;
+                    padding-top: 6px;
+                    padding-bottom: 4px;
+                }
+                .header-part-image-area {
+                    width: 365px;
+                    margin-top: -104px;
+                    margin-left: 11px;
+                }
+                .header-part-btn .custom-btn {
+                    font-size: 15px;
+                }
+                .header-part-image-area {
+                    width: 330px;
+                    margin-top: -65px;
+                    margin-left: -20px;
+                }
+                #my-dream-part .my-dream-image-area img {
+                    width: 305px;
+                    margin-top: -118px;
+                    margin-left: -42px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-title {
+                    font-size: 25px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-sub-title {
+                    font-size: 13px;
+                    padding-bottom: 2px;
+                    padding-top: 10px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-decription {
+                    font-size: 12px;
+                    width: 425px;
+                }
+                .my-dream-content-area {
+                    margin-left: 30px;
+                }
+                .my-dream-content-area-btn .my-dream-custom-btn {
+                    padding: 5px 15px;
+                    font-size: 15px;
+                }
+                #bottom-part .bootom-part-title .bootom-part-title-h2 {
+                    font-size: 28px;
+                    padding-left: 77px;
+                }
+                #bottom-part .card-text .text-muted {
+                    font-size: 12px;
+                }
+                #bottom-part .card-title {
+                    font-size: 20px;
+                }
+                #bottom-part .left-card-p {
+                    font-size: 12px;
+                }
+                #bottom-part {
+                    margin-bottom: 45px;
+                }
+            }
+            /* Large devices (desktops, 992px and up)*/
+            
+            @media (min-width: 992px) and (max-width: 1199.98px) {
+                #header-part .header-part-content-area .header-part-content-title {
+                    font-size: 45px;
+                }
+                #header-part .header-part-content-area .header-part-content-description {
+                    font-size: 14px;
+                }
+                #header-part .header-part-content-area .header-part-content-sub-title {
+                    font-size: 35px !important;
+                    padding-top: 10px;
+                    padding-bottom: 6px;
+                }
+                .header-part-image-area {
+                    width: 365px;
+                    margin-top: -104px;
+                    margin-left: 11px;
+                }
+                .header-part-btn .custom-btn {
+                    position: relative;
+                    z-index: 100;
+                }
+                #my-dream-part .my-dream-image-area img {
+                    width: 305px;
+                    margin-top: -118px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-title {
+                    font-size: 28px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-sub-title {
+                    font-size: 14px;
+                    padding-bottom: 2px;
+                    padding-top: 10px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-decription {
+                    font-size: 13px;
+                    width: 518px;
+                    text-align: justify;
+                }
+                .my-dream-content-area-btn .my-dream-custom-btn {
+                    padding: 5px 15px;
+                }
+                .left-card {
+                    width: 405px;
+                    margin: 0 auto;
+                    margin-left: 80px;
+                }
+                .right-card {
+                    width: 405px;
+                    margin: 0 auto;
+                }
+                #bottom-part .bootom-part-title .bootom-part-title-h2 {
+                    font-size: 28px;
+                    padding-left: 77px;
+                }
+                #bottom-part .card-text .text-muted {
+                    font-size: 12px;
+                }
+                #bottom-part .card-title {
+                    font-size: 20px;
+                }
+                #bottom-part .left-card-p {
+                    font-size: 12px;
+                }
+                #bottom-part {
+                    margin-bottom: 55px;
+                }
+            }
+            /*Extra large devices (large desktops, 1200px and up)*/
+            
+            @media (min-width: 1200px) and (max-width: 1365px) {
+                #header-part .header-part-content-area .header-part-content-title {
+                    font-size: 50px;
+                }
+                #header-part .header-part-content-area .header-part-content-description {
+                    font-size: 14px;
+                }
+                #header-part .header-part-content-area .header-part-content-sub-title {
+                    font-size: 35px;
+                }
+                .header-part-image-area {
+                    width: 445px;
+                    margin-top: -144px;
+                }
+                #my-dream-part .my-dream-content-area .my-dream-content-area-decription {
+                    width: 656px;
+                }
+                #my-dream-part .my-dream-image-area img {
+                    margin-top: -149px;
+                }
+                #my-dream-part {
+                    padding-top: 30px;
+                }
+                #bottom-part .bootom-part-title .bootom-part-title-h2 {
+                    padding-left: 66px;
+                }
+                .left-card {
+                    width: 405px;
+                    margin: 0 auto;
+                }
+                .right-card {
+                    width: 405px;
+                    margin: 0 auto;
+                }
+            }
+            
+            @media (min-width: 1366px) {}
