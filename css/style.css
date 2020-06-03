@@ -60,8 +60,8 @@ clear {
     font-weight: 613;
     font-size: 38px;
     text-transform: capitalize;
-    padding-top: 23px;
-    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 10px;
     letter-spacing: 2px;
 }
 
@@ -104,11 +104,11 @@ clear {
     border: 1px solid #F97860;
 }
 
-.header-part-image-area img {
+.header-part-image-area {
     height: auto;
-    width: 540px;
-    margin-top: -197px;
-    margin-left: 24px;
+    width: 465px;
+    margin-top: -160px;
+    margin-left: 20px;
 }
 
 
@@ -118,7 +118,7 @@ clear {
 /* middle part start */
 
 #my-dream-part {
-    padding-top: 70px;
+    padding-top: 50px;
     background: url(../img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
@@ -177,4 +177,66 @@ clear {
 /* middle part end*/
 
 
-/*font-family: 'Poppins', sans-serif;*/
+/* last part start*/
+
+#bottom-part {
+    background: url(../img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+#bottom-part .bootom-part-title .bootom-part-title-h2 {
+    font-weight: 600;
+    font-size: 34px;
+    text-transform: capitalize;
+}
+
+#bottom-part .card-title {
+    font-weight: 500;
+    font-size: 27px;
+    text-transform: capitalize;
+}
+
+#bottom-part .card-text .text-muted {
+    font-weight: 500;
+    font-size: 13px;
+    text-transform: capitalize;
+    color: orange !important;
+}
+
+#bottom-part .left-card-p {
+    font-size: 15px;
+    text-transform: capitalize;
+    line-height: 24px;
+    text-align: justify;
+}
+
+.left-card {
+    border-left: 7px solid;
+    box-shadow: 0px 0px 2px #333;
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+.right-card {
+    border-left: 7px solid;
+    box-shadow: 0px 0px 2px #333;
+    border-image: linear-gradient(rgb(83, 73, 175), rgb(11, 25, 102));
+    border-image-slice: 1;
+}
+
+
+/* last part end*/
+
+
+/* last part end*/
+
+.footer-content-credit {
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+
+/* last part end*/
